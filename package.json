@@ -37,7 +37,8 @@
     "typescript-plugin-css-modules": "latest",
     "undici": "*",
     "vite": "7.1.11",
-    "vite-tsconfig-paths": "^4.2.1"
+    "vite-tsconfig-paths": "^4.2.1",
+    "@unpic/qwik": "^1.0.0"
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.84.0",
